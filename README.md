@@ -2,16 +2,19 @@
 ## Estudiante Steven Guillén Rivera
 ### Registro de presencia de felinos en Costa Rica.
 
-Este reposotorio llamado Felinos_Tarea3 contiene un directorio con datos relacionados a los registros de presencia de felinos en Costa Rica y las Áreas Silvestres Protegidas del territorio nacional. Los datos fueron empleados en distintos procesos mediante lenguaje de programación Python apoyándose de las bibliotecas *_Pandas, GeoPandas, Plotly y Folium_* creando con ello tablas y gráficos que permiten una difusión clara de la información junto a mapas interactivos amigables con el usuario final.
-Estos procesos y sus resultados pueden ser visualizados en el cuaderno de notas de Jupyter adjunto en este mismo repositorio, donde se pueden apreciar la carga de paquetes , preparación de datos, su tabulación, graficación e integración en mapas interactivos.
+Este reposotorio llamado Felinos_Tarea3 contiene un directorio con datos relacionados a los registros de presencia de felinos en Costa Rica y las Áreas Silvestres Protegidas del territorio nacional. Los datos fueron empleados en distintos procesos mediante lenguaje de programación Python apoyándose de las bibliotecas *_Pandas, GeoPandas, Plotly y Folium_* creando con ello tablas y gráficos que permiten una difusión clara de la información, junto a un mapa interactivo amigable con el usuario final.
+Estos procesos y sus resultados pueden ser visualizados en el cuaderno de notas de Jupyter adjunto en este mismo repositorio, donde se pueden visualizar la carga de paquetes , preparación de datos, su tabulación, graficación e integración en mapas interactivos.
 
 #### El código contiene 3 salidas que representan la información 
 Inicialmente una tabla que muestra los registros de presencia de felinos, incluyendo variables como  la especie,  provincia, localidad y fecha del registro.
 
 Seguidamente encontrará un gráfico _sunburst_ que muestre las cantidades de registros de presencia por género donde destaca una mayor presencia del género _Leopardus_ y por especie donde el _Leopardus pardalis_ y _Puma concolor_ poseen más registros de presencia.
 
-Para finalizar  con un mapa que muestra  cuatro capas: dos capas base, una capa de polígonos con las Áreas Silvestres Protegidas y una capa con puntos de registros de presencia de felinos.
+Se concluye con un mapa que muestra  cuatro capas: dos capas base, una capa de polígonos con las Áreas Silvestres Protegidas y una capa con puntos de registros de presencia de felinos.
 
-##### Fuente de Datos
+### Fuente de Datos
 
-Los datos utilizados para este trabajo pertenecen a Sistema Nacional de Información Territorial [SNIT](https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC)
+Los datos de las ASP utilizados para este trabajo están alojados en el Sistema Nacional de Información Territorial [SNIT](https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC)
+La información del registro de presencia de felinos en Costa Rica utilizada en este informe se puede consultar en Global Biodiversity Information Facility (https://www.gbif.org/occurrence/download/0141580-220831081235567)[GBIF] 
+
+En el siguiente enlace se puede apreciar el trabajo llevado a cabo en el cuaderno de Jupyter también adjunto en el repositorio. Enlace NBviewer 

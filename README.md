@@ -15,6 +15,6 @@ Se concluye con un mapa que muestra  cuatro capas: dos capas base, una capa de p
 ### Fuente de Datos
 
 Los datos de las ASP utilizados para este trabajo están alojados en el Sistema Nacional de Información Territorial [SNIT](https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC)
-La información del registro de presencia de felinos en Costa Rica utilizada en este informe se puede consultar en Global Biodiversity Information Facility (https://www.gbif.org/occurrence/download/0141580-220831081235567)[GBIF] 
+La información del registro de presencia de felinos en Costa Rica utilizada en este informe se puede consultar en Global Biodiversity Information Facility [GBIF](https://www.gbif.org/occurrence/download/0141580-220831081235567) 
 
-En el siguiente enlace se puede apreciar el trabajo llevado a cabo en el cuaderno de Jupyter también adjunto en el repositorio. Enlace NBviewer 
+En el siguiente enlace se puede apreciar el trabajo llevado a cabo en el cuaderno de Jupyter también adjunto en el repositorio. Enlace [NBviewer](https://nbviewer.org/github/09StevenG/Felinos_Tarea3/blob/main/Felinos_CostaRica.ipynb) 
